@@ -1,0 +1,16 @@
+/* body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    background-color: white; 
+    background-size: cover;
+} */
+
+.blog_post{
+    background-color: #DAE1E7;
+    color: #142850;
+}
+
+.upload_btn{
+    background-color: #142850 !important;
+    color: #DAE1E7 !important;
+}

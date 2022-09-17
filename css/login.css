@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+}
+.bg img{
+    width:90%;
+    
+}
+.login1{
+    margin-top: 90px;
+    margin-left: 280px;
+   width: 100%;
+   border: cadetblue;
+}
+.bg{
+    height: 100vh;
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+   
+   /* background-image:url("../image/ig4.jpg");*/
+   background-color: #4682B4; 
+}
+.login2{width: 50%;
+    border: #2B547E;
+}
+
+.box{
+    margin-top:10px;
+   
+    border-radius: 25px;
+}
+
+.sign{
+    color:#2B547E;
+    font-size: 40px;
+    font-weight: bolder;
+  
+}
+label{
+     color:#2B547E;
+     font-weight: bold;
+}
+.text{
+    color:blue;;
+}
+.btn-1{
+   background-color:white;
+   color:teal;
+   padding: 10px 55px;
+   border-radius: 25px;
+   border:1px solid wheat;
+   font-weight:bold;
+}
+.btn-1:hover{
+    background-color:teal;
+   color:wheat;
+   transform:scale(1.1);
+   transition:0.7s;
+   border:1px solid black;
+}
+.ic{
+    background-color:#4682B4;
+    border:2px solid whitesmoke;
+} 
+.account{
+    font-weight: bolder;
+    float: right;
+    font-size:20 px;
+    color:darkcyan;
+}
+.account:hover{
+    color: turquoise;
+}
